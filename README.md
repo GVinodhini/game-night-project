@@ -1,4 +1,4 @@
-<img width="1836" height="799" alt="image" src="https://github.com/user-attachments/assets/eba2e18b-0a7b-438c-870e-4075e48536c5" /># game-night-project
+# game-night-project
 This project is part of the Google Student Ambassador Program, where we explore Google tools through hands-on learning. We created an interactive Snake and Ladder game using Canvas, turning simple ideas into fun and creative applications while improving our coding and design skills.
 
 # 🎲 Roll & Rise
